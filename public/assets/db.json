@@ -1,0 +1,154 @@
+{
+  "info": [
+    {
+      "id": 1,
+      "title": "Daisy",
+      "modelId": 149815,
+      "description": "some long boaring stuff",
+      "age": "Good girl",
+      "height": "888 сm",
+      "likeCount": 14950,
+      "photos": [
+        "./assets/img/photo3.jpg", "./assets/img/photo2.jpg"]
+    },
+    {
+      "id": 2,
+      "title": "Daisy",
+      "modelId": 149815,
+      "description": "some long boaring stuff",
+      "age": "Good girl",
+      "height": "888 сm",
+      "likeCount": 14950,
+      "photos": [
+        "./assets/img/photo2.jpg", "./assets/img/photo2.jpg"]
+    },
+    {
+      "id": 3,
+      "title": "Daisy",
+      "description": "some long boaring stuff",
+      "modelId": 149815,
+      "likeCount": 14950,
+      "age": "Good girl",
+      "height": "888 сm",
+      "photos": [
+        "./assets/img/photo1.jpg", "./assets/img/photo2.jpg"]
+    },
+    {
+      "id": 4,
+      "title": "Daisy",
+      "modelId": 149815,
+      "likeCount": 14950,
+      "description": "some long boaring stuff",
+      "age": "Good girl",
+      "height": "888 сm",
+      "photos": [
+        "./assets/img/photo4.jpg", "./assets/img/photo2.jpg"]
+    },
+    {
+      "id": 5,
+      "title": "Daisy",
+      "modelId": 149815,
+      "likeCount": 14950,
+      "description": "some long boaring stuff",
+      "age": "Good girl",
+      "height": "888 сm",
+      "photos": [
+        "./assets/img/photo1.jpg", "./assets/img/photo2.jpg"]
+    },
+    {
+      "id": 6,
+      "title": "Daisy",
+      "modelId": 149815,
+      "likeCount": 14950,
+      "height": "888 сm",
+      "description": "some long boaring stuff",
+      "age": "Good girl",
+      "photos": [
+        "./assets/img/photo1.jpg", "./assets/img/photo2.jpg"]
+    },
+    {
+      "id": 7,
+      "title": "Daisy",
+      "modelId": 149815,
+      "likeCount": 14950,
+      "height": "888 сm",
+      "age": "Good girl",
+      "description": "some long boaring stuff",
+      "photos": [
+        "./assets/img/photo1.jpg", "./assets/img/photo2.jpg"]
+    },
+    {
+      "id": 8,
+      "title": "Daisy",
+      "modelId": 149815,
+      "likeCount": 14950,
+      "height": "888 сm",
+      "description": "some long boaring stuff",
+      "age": "Good girl",
+      "photos": [
+        "./assets/img/photo2.jpg", "./assets/img/photo2.jpg"]
+    },
+    {
+      "id": 10,
+      "title": "Daisy",
+      "modelId": 149815,
+      "likeCount": 14950,
+      "height": "888 сm",
+      "description": "some long boaring stuff",
+      "age": "Good girl",
+      "photos": [
+        "./assets/img/photo3.jpg", "./assets/img/photo2.jpg", "./assets/img/photo3.jpg", "./assets/img/photo2.jpg", "./assets/img/photo3.jpg", "./assets/img/photo2.jpg"]
+    },
+    {
+      "id": 11,
+      "title": "Daisy",
+      "modelId": 149815,
+      "likeCount": 14950,
+      "height": "888 сm",
+      "description": "some long boaring stuff",
+      "age": "Good girl",
+      "photos": [
+        "./assets/img/photo3.jpg", "./assets/img/photo2.jpg","./assets/img/photo3.jpg", "./assets/img/photo2.jpg","./assets/img/photo3.jpg", "./assets/img/photo2.jpg","./assets/img/photo3.jpg", "./assets/img/photo2.jpg"]
+    },
+    {
+      "id": 12,
+      "title": "Daisy",
+      "modelId": 149815,
+      "likeCount": 14950,
+      "height": "888 сm",
+      "description": "some long boaring stuff",
+      "age": "Good girl",
+      "photos": [
+        "./assets/img/photo3.jpg", "./assets/img/photo2.jpg"]
+    },
+    {
+      "id": 13,
+      "title": "Daisy",
+      "modelId": 149815,
+      "likeCount": 14950,
+      "height": "888 сm",
+      "description": "some long boaring stuff",
+      "age": "Good girl",
+      "photos": [
+        "./assets/img/photo3.jpg", "./assets/img/photo2.jpg"]
+    },
+    {
+      "id": 14,
+      "title": "Daisy",
+      "modelId": 149815,
+      "likeCount": 14950,
+      "height": "888 сm",
+      "description": "some long boaring stuff",
+      "age": "Good girl",
+      "photos": [
+        "./assets/img/photo4.jpg", "./assets/img/photo1.jpg"]
+    }
+  ],
+  "userData": [
+    {
+      "id": 1,
+      "userName": "JohnDoe",
+      "password": "12345678"
+    }
+  ]
+}
